@@ -1,1 +1,1 @@
-# shell-cfg
+config files for linux
