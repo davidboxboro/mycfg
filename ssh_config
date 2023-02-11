@@ -1,0 +1,24 @@
+Host coats
+  User davidlu
+  HostName coats.csail.mit.edu
+
+Host melville
+  User davidlu
+  HostName melville.csail.mit.edu
+
+Host somerset
+  User davidlu
+  Hostname somerset.csail.mit.edu
+
+Host manitoulin
+  User davidlu
+  Hostname manitoulin.csail.mit.edu
+
+Host akimiski
+  User davidlu
+  Hostname akimiski.csail.mit.edu
+
+Host txe1
+  User dmayo
+  Hostname txe1-login.mit.edu
+  IdentityFile ~/.ssh/id_rsa
