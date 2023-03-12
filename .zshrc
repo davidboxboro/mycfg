@@ -1,5 +1,6 @@
 # add local bin to PATH
 export PATH="$PATH:/storage/davidlu/bin"
+export PATH="$PATH:/storage/davidlu/scripts"
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
